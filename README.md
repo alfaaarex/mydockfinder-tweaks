@@ -19,6 +19,6 @@ This is a repository where creators post custom language files, launchpad config
 
 # How to submit:
 
- Just upload it on Google Drive and share it with us via Email.
+ Just upload it on Google Drive and share it with us via Pull Request
  
  If it gets accepted, A new branch will be made. If the author proposes a new release, they need to be accepted by the Owners, then a new release will be made.
